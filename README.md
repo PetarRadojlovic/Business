@@ -1,0 +1,1 @@
+This is theme for wordpress.It has nice design,it's very responsive.
